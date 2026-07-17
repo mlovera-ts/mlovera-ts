@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mlovera-ts Magic Engineer at Tagshelf.
+- 👋 Hi, I’m @mlovera-ts Software Engineer at Tagshelf.
 - 👀 I’m interested in software engineering, computer science, machine learning.
 - 🌱 I’m currently learning about backend development, cloud/devops and machine learning.
 - 💞️ I’m looking to collaborate on meaningful projects.
